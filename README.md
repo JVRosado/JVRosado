@@ -33,4 +33,4 @@ Estou em busca de um estágio na área de Sistemas de Informação, onde possa a
 - Flutter (Estudando)
   
 ## 📃 Certificados
--[Fundamentos de Cybersecurity.pdf](https://github.com/JVRosado/JVRosado/files/13575937/Fundamentos.de.Cybersecurity.pdf)
+- [Fundamentos de Cybersecurity.pdf](https://github.com/JVRosado/JVRosado/files/13575937/Fundamentos.de.Cybersecurity.pdf)
