@@ -4,7 +4,6 @@
 ## 📞 Contato
 - 📧 Email: joaovrosado2003@gmail.com
 - 📱 Telefone: (31) 97173-9740
-- 🏠 Endereço: Rua vereador ziquita, Bairro novo Horizonte, 425, Igarapé, Minas gerais 
 
 ## 🔗 Links Profissionais 
 - 🔵 Linkedin www.linkedin.com/in/joão-vitor-rosado-22b65221a
