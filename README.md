@@ -30,5 +30,7 @@ Estou em busca de um estágio na área de Sistemas de Informação, onde possa a
 - Python
 - React (Estudando)
 - Flutter (Estudando)
+  
+## 📃 Certificados
 - [Curriculo João Vitor Rosado.pdf](https://github.com/JVRosado/JVRosado/files/13575909/Curriculo.Joao.Vitor.Rosado.pdf)
 
