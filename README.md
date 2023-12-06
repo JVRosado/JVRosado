@@ -7,8 +7,8 @@
 - 🏠 Endereço: Rua vereador ziquita, Bairro novo Horizonte, 425, Igarapé, Minas gerais 
 
 ## 🔗 Links Profissionais 
-- 🔵 Linkedin
-- 🐱‍💻 Repositório
+- 🔵 Linkedin www.linkedin.com/in/joão-vitor-rosado-22b65221a
+
 
 ## 📝 Perfil
 Sou um estudante do 6º período de Sistemas de Informação da PUC Betim. Desde pequeno, criei gosto pela área da tecnologia e sempre fiquei fascinado com aquelas linhas de código na tela. Com meus 17 anos, durante a pandemia, resolvi começar a estudar mais a fundo e me apaixonei ainda mais pelo assunto.
