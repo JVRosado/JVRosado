@@ -22,6 +22,7 @@ Estou em busca de um estágio na área de Sistemas de Informação, onde possa a
 
 ## 💼 Competências
 - Redes de Computadores
+- Cybersecurity
 - HTML/CSS
 - Java
 - C#
