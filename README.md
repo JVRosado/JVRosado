@@ -3,7 +3,6 @@
 
 ## 📞 Contato
 - 📧 Email: joaovrosado2003@gmail.com
-- 📱 Telefone: (31) 97173-9740
 
 ## 🔗 Links Profissionais 
 - 🔵 Linkedin www.linkedin.com/in/joão-vitor-rosado-22b65221a
