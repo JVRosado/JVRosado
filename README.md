@@ -15,7 +15,7 @@ Sou formado em Sistemas de Informação da PUC Betim. Desde pequeno, criei gosto
 Contribuir para o mundo da tecnologia, aplicando meus conhecimentos em diversas áreas. Busco criar soluções inovadoras que unam a eficiência técnica com as necessidades do mundo dos negócios. Estou ansioso para enfrentar desafios e crescer profissionalmente enquanto colaboro com uma equipe dedicada. Além disso, estou sempre empenhado em aprender e aprimorar minhas habilidades.
 ## 🎓 Formações 
 - Ensino médio - Colégio Educare Betim
-- Sistema de informação - PUC Minas - Previsão de formação em 2024
+- Sistema de informação - PUC Minas
 
 ## 💼 Competências
 - Redes de Computadores
