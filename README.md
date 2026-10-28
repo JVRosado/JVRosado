@@ -1,33 +1,78 @@
-
 # 👨‍💻 João Vitor Rosado
 
+### Analista de Processos e Dados
+
 ## 📞 Contato
-- 📧 Email: joaovrosado2003@gmail.com
 
-## 🔗 Links Profissionais 
-- 🔵 Linkedin www.linkedin.com/in/joão-vitor-rosado-22b65221a
+- 📧 **E-mail:** joaovrosado2003@gmail.com
+- 📍 **Localização:** Igarapé – MG
 
+## 🔗 Links Profissionais
+
+- 💻 **GitHub:** [JVRosado](https://github.com/JVRosado)
+- 🔵 **LinkedIn:** [João Vitor Rosado](https://www.linkedin.com/in/jo%C3%A3o-vitor-rosado-22b65221a)
 
 ## 📝 Perfil
-Sou formado em Sistemas de Informação da PUC Betim. Desde pequeno, criei gosto pela área da tecnologia e sempre fiquei fascinado com aquelas linhas de código na tela. Com meus 17 anos, durante a pandemia, resolvi começar a estudar mais a fundo e me apaixonei ainda mais pelo assunto.
+
+Formado em Sistemas de Informação pela PUC Minas – Betim, com experiência em Análise de Processos e Dados. Atuo na automação de processos, criação de dashboards em Power BI e mapeamento de fluxos internos, transformando dados em informações estratégicas e otimizando atividades operacionais. Também desenvolvo aplicações web e mobile com React e Flutter, integrando tecnologia, análise e inovação para criar soluções alinhadas às necessidades dos negócios.
 
 ## 🎯 Missão
-Contribuir para o mundo da tecnologia, aplicando meus conhecimentos em diversas áreas. Busco criar soluções inovadoras que unam a eficiência técnica com as necessidades do mundo dos negócios. Estou ansioso para enfrentar desafios e crescer profissionalmente enquanto colaboro com uma equipe dedicada. Além disso, estou sempre empenhado em aprender e aprimorar minhas habilidades.
-## 🎓 Formações 
-- Ensino médio - Colégio Educare Betim
-- Sistema de informação - PUC Minas
+
+Contribuir para a melhoria de processos e o desenvolvimento de soluções tecnológicas que gerem resultados concretos para as organizações. Busco unir análise de dados, automação e desenvolvimento de software para aumentar a eficiência operacional, apoiar decisões estratégicas e reduzir tarefas manuais. Sou uma pessoa dedicada, colaborativa e comprometida com o aprendizado contínuo e o aprimoramento das minhas habilidades.
+
+## 🎓 Formação Acadêmica
+
+- **Sistemas de Informação** — PUC Minas, Betim
+  - Conclusão: julho de 2025.
+  - **TCC:** API de visão computacional aplicada à agricultura para identificação de patógenos em culturas de tomate.
 
 ## 💼 Competências
-- Redes de Computadores
-- Cybersecurity
-- HTML/CSS
-- Java
-- C# 
-- Javascript
-- MySql
+
+### 📊 Análise de Dados e Processos
+
+- Power BI e criação de dashboards
+- Análise e visualização de dados
+- Mapeamento e otimização de processos
+- Automação de processos com n8n
+- Ferramentas Google
+
+### 💻 Desenvolvimento de Software
+
+- HTML e CSS
+- JavaScript
+- React
+- Flutter e Dart
 - Python
-- React (Estudando)
-- Flutter (Estudando)
-  
+- Java
+- C#
+- MySQL e SQL Server
+- Firebase
+
+## 💼 Experiência Profissional
+
+### Analista de Processos e Dados — Instituto Metamorfose
+
+- Automatização da contratação de jovens aprendizes com n8n, integrando planilhas, banco de dados e geração automática de contratos.
+- Desenvolvimento de dashboards e relatórios em Power BI para acompanhamento de programas sociais e processos internos.
+- Mapeamento e padronização de processos, identificando gargalos e propondo melhorias.
+
+### Desenvolvedor Front-end e Back-end Freelancer | Jan. 2026 – Out. 2026
+
+- Desenvolvimento de sites interativos com React, priorizando usabilidade e experiência do usuário.
+- Criação de aplicativo de gestão para salões de beleza utilizando Flutter, Dart e Firebase.
+
+## 🚀 Projetos
+
+- **Visão Computacional Aplicada à Agricultura:** identificação de patógenos em tomateiros.
+- **Automação com Ferramentas Google:** otimização de atividades e fluxos de trabalho.
+- **Automação com n8n:** integração de ferramentas e otimização de processos.
+- **Aplicativo para Salões de Beleza:** desenvolvimento de software mobile para gestão.
+- **Landing Pages Interativas:** criação de interfaces web com foco em usabilidade e experiência do usuário.
+
 ## 📃 Certificados
+
 - [Fundamentos de Cybersecurity](https://github.com/JVRosado/JVRosado/files/13575937/Fundamentos.de.Cybersecurity.pdf)
+
+---
+
+*Transformando dados, processos e tecnologia em soluções eficientes.*
